@@ -1,0 +1,179 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the AOA Sales Docs\n\n\nThis documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.\n\n\nNavigation\n\n\n\n\nTo navigate, use the navigation bar on the left hand side of your screen.\n\n\nIt is broken up into \nfive\n categories as listed below\n\n\n\n\nDocumentation layout\n\n\n\n\nGoldmine (GM)\n\n\nTradeshow\n\n\nMagazine\n\n\nReferrals\n\n\nComplaints",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-the-aoa-sales-docs",
+            "text": "This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.",
+            "title": "Welcome to the AOA Sales Docs"
+        },
+        {
+            "location": "/#navigation",
+            "text": "To navigate, use the navigation bar on the left hand side of your screen.  It is broken up into  five  categories as listed below",
+            "title": "Navigation"
+        },
+        {
+            "location": "/#documentation-layout",
+            "text": "Goldmine (GM)  Tradeshow  Magazine  Referrals  Complaints",
+            "title": "Documentation layout"
+        },
+        {
+            "location": "/goldmine/",
+            "text": "Goldmine Docs\n\n\n\n\nThis documentation describes the features and common operations done in the Goldmine (GM) Customer Relationship Management database.\n\n\n\n\nSearching the database\n\n\n\n\nThe fastest way to search GM is by \ndouble clicking\n on the field that you would like to search for\n\n\nFor the \nemail\n and \nwebsite\n fields, you have to right click it and select \nlookup\n\n\n\n\nYou can also search using the dropdown\n\n\n\n\n\n\nPay attention to the \noperator\n you use when searching\n\n\n\n\ncontains\n will search for contacts that contain the input (\nI usually use this\n)\n\n\nbegins with\n will only search for contacts that begin with the input\n\n\nThe rest are pretty self-explanatory \n\n\n\n\n \n\n\nNew Contacts: Creating/Deleting\n\n\n\n\n\n\nCreating new contacts is a very common operation in GM\n\n\n\n\nBe careful not to create \nduplicate contacts\n\n\n\n\n\n\nGM will alert* you if you are about to create a duplicate contact if it has the same email or name that you just entered\n\n\n\n\n\n\n\n\n\n\nIf there is already a contact in GM, just \nupdate\n it \n\n\n\n\n\n\n\n\nAlthough it is tedious, \nyou have to enter the first name twice\n\n\n\n\nOnce in the \nContact\n field and once in the \nFirst Name\n field\n\n\nThis allows you to \nsearch\n for the full name and also use the powerful \nemail templating\n feature of GM \n\n\n\n\n\n\n\n\nTo delete just click the red \"X\" \n\n\n\n\n\n\n \n\n\nFilters: Creating a Filter\n\n\nThis is great for creating \nemail lists or call lists\n alike\n\n\n \n\n\nNotes: Creating/Modifying/Deleting\n\n\n\n\nNotes are the \ncornerstone\n of GM\n\n\nWe use them to determine:\n\n\nIf they have been \nsold to before\n by another rep\n\n\nIf they have a \ngood track record\n when referring them to our members\n\n\nTo track \nwhen we refer\n them to our members\n\n\nTo view your \nhistory\n or another reps history with them\n\n\nTo determine whether or not the company has been \ncontacted in the last 3 months\n (\ncompanies who have not been sold before and have not been contacted in the last 3 months are open to sell\n) \n\n\n\n\n\n\n\n\n \n\n\nCalendar: Scheduling Calls/Appointments\n\n\nThe following shows how to schedule calls using the monthly calendar \n\n\n \n\n\nCalendar: Completing or Deleting Calls/Appointments\n\n\nThe following shows how to complete or delete calls once you complete them or they are cancelled\n\n\n\n\nYou can also drag and drop them to different days if you want to schedule a follow up \n\n\n\n\n \n\n\nEmail Templates: Sending an email\n\n\n\n\n\n\nEmail templates are an \nincredibly powerful feature\n of GM\n\n\n\n\nIt speeds up your emailing process significantly \n\n\n\n\n\n\n\n\nEmail templates integrate with Microsoft Outlook \n\n\n\n\n\n\n \n\n\nEmail Templates: Modifying an existing template\n\n\n\n\nModify existing templates by using the documents tab\n\n\nbe VERY CAREFUL not to double click on an email template because that will prepare to send the email to multiple contacts\n\n\nYou want to \nright click\n on a template to modify it\n\n\nAlso be cautious when modifying if it is a \npublic\n template because your changes will show up on other people's templates (\nRichard & Todd\n) \n\n\n\n\n \n\n\nEmail Templates: Creating a new template\n\n\n\n\nIf you would like to create an additional template, I would suggest \nduplicating\n an existing template and then modifying it\n\n\n\n\nIt is pretty confusing to set up a new template from scratch \n\n\n\n\n\n\nYou can also change whether or not the template is public or private\n\n\n\n\nCreate templates just for yourself\n by clicking the \nuser\n dropdown and selecting your username like I do in the video below \n\n\n\n\n \n\n\nEmail Templates: Tradeshow Fields\n\n\n\n\nWe created \ntrade show fields\n specifically to be used for \nbooth confirmations\n and trade show \nreminders\n\n\nAdding info to these fields really \nspeeds the email process up\n because you will be sending 100s of emails for each show every year",
+            "title": "Goldmine"
+        },
+        {
+            "location": "/goldmine/#goldmine-docs",
+            "text": "This documentation describes the features and common operations done in the Goldmine (GM) Customer Relationship Management database.",
+            "title": "Goldmine Docs"
+        },
+        {
+            "location": "/goldmine/#searching-the-database",
+            "text": "The fastest way to search GM is by  double clicking  on the field that you would like to search for  For the  email  and  website  fields, you have to right click it and select  lookup   You can also search using the dropdown    Pay attention to the  operator  you use when searching   contains  will search for contacts that contain the input ( I usually use this )  begins with  will only search for contacts that begin with the input  The rest are pretty self-explanatory",
+            "title": "Searching the database"
+        },
+        {
+            "location": "/goldmine/#new-contacts-creatingdeleting",
+            "text": "Creating new contacts is a very common operation in GM   Be careful not to create  duplicate contacts    GM will alert* you if you are about to create a duplicate contact if it has the same email or name that you just entered      If there is already a contact in GM, just  update  it      Although it is tedious,  you have to enter the first name twice   Once in the  Contact  field and once in the  First Name  field  This allows you to  search  for the full name and also use the powerful  email templating  feature of GM      To delete just click the red \"X\"",
+            "title": "New Contacts: Creating/Deleting"
+        },
+        {
+            "location": "/goldmine/#filters-creating-a-filter",
+            "text": "This is great for creating  email lists or call lists  alike",
+            "title": "Filters: Creating a Filter"
+        },
+        {
+            "location": "/goldmine/#notes-creatingmodifyingdeleting",
+            "text": "Notes are the  cornerstone  of GM  We use them to determine:  If they have been  sold to before  by another rep  If they have a  good track record  when referring them to our members  To track  when we refer  them to our members  To view your  history  or another reps history with them  To determine whether or not the company has been  contacted in the last 3 months  ( companies who have not been sold before and have not been contacted in the last 3 months are open to sell )",
+            "title": "Notes: Creating/Modifying/Deleting"
+        },
+        {
+            "location": "/goldmine/#calendar-scheduling-callsappointments",
+            "text": "The following shows how to schedule calls using the monthly calendar",
+            "title": "Calendar: Scheduling Calls/Appointments"
+        },
+        {
+            "location": "/goldmine/#calendar-completing-or-deleting-callsappointments",
+            "text": "The following shows how to complete or delete calls once you complete them or they are cancelled   You can also drag and drop them to different days if you want to schedule a follow up",
+            "title": "Calendar: Completing or Deleting Calls/Appointments"
+        },
+        {
+            "location": "/goldmine/#email-templates-sending-an-email",
+            "text": "Email templates are an  incredibly powerful feature  of GM   It speeds up your emailing process significantly      Email templates integrate with Microsoft Outlook",
+            "title": "Email Templates: Sending an email"
+        },
+        {
+            "location": "/goldmine/#email-templates-modifying-an-existing-template",
+            "text": "Modify existing templates by using the documents tab  be VERY CAREFUL not to double click on an email template because that will prepare to send the email to multiple contacts  You want to  right click  on a template to modify it  Also be cautious when modifying if it is a  public  template because your changes will show up on other people's templates ( Richard & Todd )",
+            "title": "Email Templates: Modifying an existing template"
+        },
+        {
+            "location": "/goldmine/#email-templates-creating-a-new-template",
+            "text": "If you would like to create an additional template, I would suggest  duplicating  an existing template and then modifying it   It is pretty confusing to set up a new template from scratch     You can also change whether or not the template is public or private   Create templates just for yourself  by clicking the  user  dropdown and selecting your username like I do in the video below",
+            "title": "Email Templates: Creating a new template"
+        },
+        {
+            "location": "/goldmine/#email-templates-tradeshow-fields",
+            "text": "We created  trade show fields  specifically to be used for  booth confirmations  and trade show  reminders  Adding info to these fields really  speeds the email process up  because you will be sending 100s of emails for each show every year",
+            "title": "Email Templates: Tradeshow Fields"
+        },
+        {
+            "location": "/tradeshow/",
+            "text": "Tradeshow Docs\n\n\nThis documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.\n\n\nSelling a Booth\n\n\n\n\n\n\nMost of your booth sales will come from \nprevious clients renewing\n\n\n\n\nWhen you begin marketing for a new show, \nGM\u2019s email templates\n come in quite handy for emailing previous clients show info (floor plan, reservation form)\n\n\nYou can modify existing templates to your liking, or create brand new ones\n\n\nThis speeds up the emailing process significantly \n\n\n\n\n\n\n\n\n\n\n\n\nThe best leads you will find come from trade shows and call-ins \n\n\n\n\n\n\nWe do not negotiate down in price but are always willing to negotiate up if they would like \ud83d\ude09 \n\n\n\n\n\n\nEnsure that competition is \nat least 3 booths away\n (ideally more than 3) \n\n\n\n\n\n\nYou must collect on the booth for it to count towards your bonus AND/OR commission (your situation may be different depending on what you work out with Dan) \n\n\n\n\n\n\nBooth space includes\n: Show colored royal blue drapery, carpet, and company ID sign \n\n\n\n\n\n\nDoes not include\n: Tables, chairs, electrical, Wi-Fi, or parking permits\n\n\n\n\nThey can bring their own tables, decorations and Wi-Fi hotspot OR rent from:\n\n\nAll Rentals\n: Blaine Convention Services (Contact: 714-522-8270)\n\n\nWi-Fi\n: Smart City (Contact: 213-765-4647) \n\n\n\n\n\n\n\n\n\n\n\n\nAfter You Sell a Booth\n\n\n\n\n\n\nDouble check to make sure the booth is \nat least 3 booths away\n from other competitors (if unsure check with other sales people)\n\n\n\n\n\n\nI.E. If you see a plumber in booth and want to place another plumber \nin booth 607\n, that would be too close because it is \nonly two booths away.  605\n would be ok though.\n\n\n\n\n\n\nBe particularly careful\n with handymen, general contractors, and lenders as they could be a potential conflict with many vendors \n\n\n\n\n\n\n \n\n\n\n\n\n\nFill out\n the reservation form making sure info is correct \n\n\n\n\n\n\nTransfer\n that info to GM by updating current contact (cross check for accuracy) or by creating a new one \n\n\n\n\n\n\nEmail\n client the confirmation template using GM. \n\n\n\n\n\n\nUpdate\n the floor plan to reflect the status of the booth (holding, need to collect, good to go) \n\n\n\n\n\n\nMake a \ncopy\n for Shelly and yourself. \n\n\n\n\n\n\nEmail every Friday\n Blaine the new companies that need to be sent the exhibitor kit\n\n\n\n\nEmails:\n\n\nTO: agutensohn@blainesvs.com\n\n\nCC: jruppert@blainesvs.com; jkraye@blainesvs.com; ngamache@blainesvs.com \n\n\n\n\n\n\n\n\n\n\n\n\nSponsorships\n\n\n\n\n\n\nThey can choose a 3, 4 or 5 star sponsorship \n\n\n\n\n\n\nThey can \nexchange\n components of the package for other components for equal or lesser value\n\n\n\n\n\n\nIE: FastEvict.com Law group chose to drop:\n\n\n\n\n$750\n: Website tower ad\n\n\n$150\n: Contractors & Vendors portal listing\n\n\n$100\n: Listing upgrade in program \n\n\n\n\n\n\n\n\nThey then extended their magazine ad from a \u00bd pg. 1 month ad to a \n1/6 pg. 7 month ad.\n \n(1/2 pg. full color ad is worth $1050; 1/6 pg. full color ad is worth $1841)\n \n\n\n\n\n\n\n\n\n\n\nYou can \nexchange components\n as you please but it may overly complicate things for yourself. \n\n\n\n\n\n\n\n\n\n\n \n\n\nBuyer's Guide\n\n\n\n\n\n\nThe buyer\u2019s guides are passed out to trade show attendees which include vendor info \n\n\n\n\n\n\nVendor info is derived from the trade show \nreservation forms\n so it is important that the info is correct\n\n\n\n\nIf the vendor is a previous client, \ncross check GM\n to resolve any discrepancies with:\n\n\nCompany Name\n\n\nPhone numbers\n\n\nEmails\n\n\nWebsites\n\n\nCategories\n \n\n\n\n\n\n\n\n\n\n\n\n\nAll reservation forms must be copied and sent to Juan before the specified deadline \n\n\n\n\n\n\nEmail Reminders\n\n\n\n\n\n\nIt is \nvery important\n to remind clients about their booth location and show info at least one time via email (\nideally two times\n)\n\n\n\n\nSend \n1st reminder\n emails to clients 1-2 weeks before the show\n\n\nSend \n2nd reminder\n emails 1 day before the show\n\n\nYou can use \nGM\u2019s email template\n feature along with the booth input field in GM to speed this up",
+            "title": "Tradeshow"
+        },
+        {
+            "location": "/tradeshow/#tradeshow-docs",
+            "text": "This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.",
+            "title": "Tradeshow Docs"
+        },
+        {
+            "location": "/tradeshow/#selling-a-booth",
+            "text": "Most of your booth sales will come from  previous clients renewing   When you begin marketing for a new show,  GM\u2019s email templates  come in quite handy for emailing previous clients show info (floor plan, reservation form)  You can modify existing templates to your liking, or create brand new ones  This speeds up the emailing process significantly        The best leads you will find come from trade shows and call-ins     We do not negotiate down in price but are always willing to negotiate up if they would like \ud83d\ude09     Ensure that competition is  at least 3 booths away  (ideally more than 3)     You must collect on the booth for it to count towards your bonus AND/OR commission (your situation may be different depending on what you work out with Dan)     Booth space includes : Show colored royal blue drapery, carpet, and company ID sign     Does not include : Tables, chairs, electrical, Wi-Fi, or parking permits   They can bring their own tables, decorations and Wi-Fi hotspot OR rent from:  All Rentals : Blaine Convention Services (Contact: 714-522-8270)  Wi-Fi : Smart City (Contact: 213-765-4647)",
+            "title": "Selling a Booth"
+        },
+        {
+            "location": "/tradeshow/#after-you-sell-a-booth",
+            "text": "Double check to make sure the booth is  at least 3 booths away  from other competitors (if unsure check with other sales people)    I.E. If you see a plumber in booth and want to place another plumber  in booth 607 , that would be too close because it is  only two booths away.  605  would be ok though.    Be particularly careful  with handymen, general contractors, and lenders as they could be a potential conflict with many vendors          Fill out  the reservation form making sure info is correct     Transfer  that info to GM by updating current contact (cross check for accuracy) or by creating a new one     Email  client the confirmation template using GM.     Update  the floor plan to reflect the status of the booth (holding, need to collect, good to go)     Make a  copy  for Shelly and yourself.     Email every Friday  Blaine the new companies that need to be sent the exhibitor kit   Emails:  TO: agutensohn@blainesvs.com  CC: jruppert@blainesvs.com; jkraye@blainesvs.com; ngamache@blainesvs.com",
+            "title": "After You Sell a Booth"
+        },
+        {
+            "location": "/tradeshow/#sponsorships",
+            "text": "They can choose a 3, 4 or 5 star sponsorship     They can  exchange  components of the package for other components for equal or lesser value    IE: FastEvict.com Law group chose to drop:   $750 : Website tower ad  $150 : Contractors & Vendors portal listing  $100 : Listing upgrade in program      They then extended their magazine ad from a \u00bd pg. 1 month ad to a  1/6 pg. 7 month ad.   (1/2 pg. full color ad is worth $1050; 1/6 pg. full color ad is worth $1841)        You can  exchange components  as you please but it may overly complicate things for yourself.",
+            "title": "Sponsorships"
+        },
+        {
+            "location": "/tradeshow/#buyers-guide",
+            "text": "The buyer\u2019s guides are passed out to trade show attendees which include vendor info     Vendor info is derived from the trade show  reservation forms  so it is important that the info is correct   If the vendor is a previous client,  cross check GM  to resolve any discrepancies with:  Company Name  Phone numbers  Emails  Websites  Categories         All reservation forms must be copied and sent to Juan before the specified deadline",
+            "title": "Buyer's Guide"
+        },
+        {
+            "location": "/tradeshow/#email-reminders",
+            "text": "It is  very important  to remind clients about their booth location and show info at least one time via email ( ideally two times )   Send  1st reminder  emails to clients 1-2 weeks before the show  Send  2nd reminder  emails 1 day before the show  You can use  GM\u2019s email template  feature along with the booth input field in GM to speed this up",
+            "title": "Email Reminders"
+        },
+        {
+            "location": "/magazine/",
+            "text": "Welcome to the AOA Sales Docs\n\n\nThis documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.\n\n\nNavigation\n\n\n\n\nTo navigate, use the navigation bar on the left hand side of your screen.\n\n\nIt is broken up into \nfive\n categories as listed below\n\n\n\n\nDocumentation layout\n\n\n\n\nGoldmine (GM)\n\n\nTradeshow\n\n\nMagazine\n\n\nReferrals\n\n\nComplaints",
+            "title": "Magazine"
+        },
+        {
+            "location": "/magazine/#welcome-to-the-aoa-sales-docs",
+            "text": "This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.",
+            "title": "Welcome to the AOA Sales Docs"
+        },
+        {
+            "location": "/magazine/#navigation",
+            "text": "To navigate, use the navigation bar on the left hand side of your screen.  It is broken up into  five  categories as listed below",
+            "title": "Navigation"
+        },
+        {
+            "location": "/magazine/#documentation-layout",
+            "text": "Goldmine (GM)  Tradeshow  Magazine  Referrals  Complaints",
+            "title": "Documentation layout"
+        },
+        {
+            "location": "/referrals/",
+            "text": "Welcome to the AOA Sales Docs\n\n\nThis documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.\n\n\nNavigation\n\n\n\n\nTo navigate, use the navigation bar on the left hand side of your screen.\n\n\nIt is broken up into \nfive\n categories as listed below\n\n\n\n\nDocumentation layout\n\n\n\n\nGoldmine (GM)\n\n\nTradeshow\n\n\nMagazine\n\n\nReferrals\n\n\nComplaints",
+            "title": "Referrals"
+        },
+        {
+            "location": "/referrals/#welcome-to-the-aoa-sales-docs",
+            "text": "This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.",
+            "title": "Welcome to the AOA Sales Docs"
+        },
+        {
+            "location": "/referrals/#navigation",
+            "text": "To navigate, use the navigation bar on the left hand side of your screen.  It is broken up into  five  categories as listed below",
+            "title": "Navigation"
+        },
+        {
+            "location": "/referrals/#documentation-layout",
+            "text": "Goldmine (GM)  Tradeshow  Magazine  Referrals  Complaints",
+            "title": "Documentation layout"
+        },
+        {
+            "location": "/complaints/",
+            "text": "Welcome to the AOA Sales Docs\n\n\nThis documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.\n\n\nNavigation\n\n\n\n\nTo navigate, use the navigation bar on the left hand side of your screen.\n\n\nIt is broken up into \nfive\n categories as listed below\n\n\n\n\nDocumentation layout\n\n\n\n\nGoldmine (GM)\n\n\nTradeshow\n\n\nMagazine\n\n\nReferrals\n\n\nComplaints",
+            "title": "Complaints"
+        },
+        {
+            "location": "/complaints/#welcome-to-the-aoa-sales-docs",
+            "text": "This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.",
+            "title": "Welcome to the AOA Sales Docs"
+        },
+        {
+            "location": "/complaints/#navigation",
+            "text": "To navigate, use the navigation bar on the left hand side of your screen.  It is broken up into  five  categories as listed below",
+            "title": "Navigation"
+        },
+        {
+            "location": "/complaints/#documentation-layout",
+            "text": "Goldmine (GM)  Tradeshow  Magazine  Referrals  Complaints",
+            "title": "Documentation layout"
+        }
+    ]
+}
