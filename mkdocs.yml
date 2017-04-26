@@ -1,0 +1,9 @@
+site_name: AOA Sales Docs
+pages:
+    - Home: index.md
+    - Goldmine: goldmine.md
+    - Tradeshow: tradeshow.md
+    - Magazine: magazine.md
+    - Referrals: referrals.md
+    - Complaints: complaints.md
+theme: readthedocs
