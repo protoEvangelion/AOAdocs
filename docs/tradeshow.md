@@ -1,7 +1,5 @@
 # Tradeshow Docs
 
-This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.
-
 ## Selling a Booth
 
 * Most of your booth sales will come from **previous clients renewing**
