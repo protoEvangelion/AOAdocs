@@ -84,6 +84,8 @@
 
 *	All reservation forms must be copied and sent to Juan before the specified deadline <br/><br/>
 
+* Also make sure that your ***sponsors*** have upgraded listings and the correct Buyer's Guide ads
+
 
 ## Email Reminders
 

@@ -1,16 +1,7 @@
-# Welcome to the AOA Sales Docs
+# AOA Complaints Docs
 
-This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.
+## Getting Complaints from Members
 
-## Navigation
-
-* To navigate, use the navigation bar on the left hand side of your screen.
-* It is broken up into **five** categories as listed below
-
-## Documentation layout
-
-1. Goldmine (GM)
-2. Tradeshow
-3. Magazine
-4. Referrals
-5. Complaints
+* Use your discretion when saying that you will be willing to reach out to the vendor that they are complaining against
+    * If they are a current advertiser, we have a little bit of leverage because we have the power to pull them after **3 unresolved complaints**
+* At the very least, make sure to ***log the complaint on GM*** and update the note if anything changes

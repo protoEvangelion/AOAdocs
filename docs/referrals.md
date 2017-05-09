@@ -1,16 +1,7 @@
-# Welcome to the AOA Sales Docs
+# AOA Referrals Docs
 
-This documentation describes the processes and protocols for managing current vendor accounts and bringing in new business.
+## Getting Call-in Referrals
 
-## Navigation
-
-* To navigate, use the navigation bar on the left hand side of your screen.
-* It is broken up into **five** categories as listed below
-
-## Documentation layout
-
-1. Goldmine (GM)
-2. Tradeshow
-3. Magazine
-4. Referrals
-5. Complaints
+* When you get a call-in for a given type of company (*say a plumber*), look up that company in the magazine area where their property is located
+* The companies that you gave referrals for, make sure to ***mark them in Gold Mine*** that you referred a member to them
+    * The more info you put in GM the better
